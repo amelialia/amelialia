@@ -1,4 +1,4 @@
-<img src="https://github.com/amelialia/amelialia/blob/main/giphy.gif" width="1500" height="400">
+<img src="https://github.com/amelialia/amelialia/blob/main/skele.gif" width="800" height="500">
 
 # Hi :grinning:, I'm Amelia
 
