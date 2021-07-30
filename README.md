@@ -1,6 +1,18 @@
-- 👋 Hi, I’m @amelialia
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<img src="https://github.com/amelialia/amelialia/blob/main/giphy.gif" width="1500" height="400">
+
+# Hi :grinning:, I'm Amelia
+
+I develop web applications and am competent in both front-end and back-end development. <br/>
+I also enjoy learning new fields of study, such as Machine learning and Data Science. In my pastime, I love exploring various software like Premiere Pro and Adobe XD.
+
+## Skills and Software :up:
+* :globe_with_meridians: JS / HTML / CSS
+* :computer: UML / SQL / C# / Python
+* :mag: OOP / Data Analysis & Visualization
+* :open_file_folder: Databases
+* :milky_way: Pycharm / Visual Studio / AutoCAD
+* :bar_chart: Tableau / Splunk
+
+
+
 
