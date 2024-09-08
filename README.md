@@ -1,6 +1,6 @@
 <img src="https://github.com/amelialia/amelialia/blob/main/1.gif" width="1200" height="300">
 
-# Hi, I'm Amelia :grinning:
+# Hi :grinning:
 
 I develop web applications and am competent in both front-end and back-end development. <br/>
 I also enjoy learning new fields of study, such as Machine learning and Data Science. In my pastime, I love exploring various software like Premiere Pro and Adobe XD.
